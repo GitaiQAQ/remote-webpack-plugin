@@ -1,0 +1,11 @@
+{
+  "name": "remote-webpack-plugin",
+  "version": "0.1",
+  "main": "index.js",
+  "repository": "https://github.com/GitaiQAQ/remote-webpack-plugin",
+  "author": "Gitai<i@gitai.me>",
+  "license": "MIT",
+  "dependencies": {
+    "download": "^7.1.0"
+  }
+}
